@@ -1,0 +1,10 @@
+{
+    "name": "Eieruhr",
+    "short_name": "Eieruhr",
+    "theme_color": "black",
+    "background_color": "black",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+}
